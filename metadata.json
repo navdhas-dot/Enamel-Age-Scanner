@@ -1,0 +1,7 @@
+{
+  "name": "Enamel Age Scanner",
+  "description": "An AI-powered application that estimates the biological age of your teeth enamel using computer vision and dental aging markers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
